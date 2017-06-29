@@ -1,2 +1,5 @@
 # hello-world
-a hello world git repository. As per andela's instructions 
+Hi World
+
+Adrian Here. I lke python and java.
+I love challanging problems because i always win in the end :).
